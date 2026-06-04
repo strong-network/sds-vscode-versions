@@ -1,6 +1,19 @@
 {
   "versions": [
     {
+      "name": "Strong IDE 1.122.1",
+      "image_url": "strongnetwork/vscode-init-container:v1.122.1",
+      "vscode_upstream_version": "1.122.1",
+      "release_notes_url": "https://github.com/strong-network/strong-ide-new/commit/320027f9077436cb4d30279e53e459298e1fa439",
+      "security_level": "none",
+      "tags": [
+        "latest"
+      ],
+      "minimum_sidecar_version": "1.0.0",
+      "sha256": "",
+      "published_at": "2026-06-04T15:29:43Z"
+    },
+    {
       "name": "Strong IDE 1.112.0",
       "image_url": "ghcr.io/strong-network/vscode-init-container:v1.112.0",
       "vscode_upstream_version": "1.112.0",
