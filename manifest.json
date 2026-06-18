@@ -1,43 +1,43 @@
 {
-    "versions": [
-        {
-            "name": "Strong IDE 1.122.1",
-            "image_url": "strongnetwork/vscode-init-container:v1.122.1",
-            "vscode_upstream_version": "1.122.1",
-            "release_notes_url": "https://github.com/strong-network/strong-ide-new/commit/320027f9077436cb4d30279e53e459298e1fa439",
-            "security_level": "none",
-            "tags": [
-                "latest"
-            ],
-            "minimum_sidecar_version": "1.0.0",
-            "sha256": "",
-            "published_at": "2026-06-04T15:43:14Z"
-        },
-        {
-            "name": "Strong IDE 1.114.0",
-            "image_url": "strongnetwork/vscode-init-container:v1.114.0",
-            "vscode_upstream_version": "1.114.0",
-            "release_notes_url": "https://github.com/strong-network/strong-ide-new/commit/cb15890e0a29c3f09d89ed6500352c2194c8fd60",
-            "security_level": "none",
-            "tags": [
-                "latest"
-            ],
-            "minimum_sidecar_version": "1.0.0",
-            "sha256": "",
-            "published_at": "2026-04-07T13:06:50Z"
-        },
-        {
-            "name": "Strong IDE 1.112.0",
-            "image_url": "strongnetwork/vscode-init-container:v1.112.0",
-            "vscode_upstream_version": "1.112.0",
-            "release_notes_url": "https://github.com/strong-network/strong-ide-new/commit/cb15890e0a29c3f09d89ed6500352c2194c8fd60",
-            "security_level": "none",
-            "tags": [
-                "latest"
-            ],
-            "minimum_sidecar_version": "1.0.0",
-            "sha256": "",
-            "published_at": "2026-04-02T09:32:04Z"
-        }
-    ]
+  "versions": [
+    {
+      "name": "Strong IDE 1.122.1-sds.1",
+      "image_url": "strongnetwork/vscode-init-container:v1.122.1-sds.1",
+      "vscode_upstream_version": "1.122.1",
+      "release_notes_url": "https://github.com/strong-network/strong-ide-new/commit/58b4a3133ade5afa60a865f086a5ed1a28d5819a",
+      "security_level": "none",
+      "tags": [
+        "latest"
+      ],
+      "minimum_sidecar_version": "1.0.0",
+      "sha256": "",
+      "published_at": "2026-06-18T18:55:49Z"
+    },
+    {
+      "name": "Strong IDE 1.114.0",
+      "image_url": "strongnetwork/vscode-init-container:v1.114.0",
+      "vscode_upstream_version": "1.114.0",
+      "release_notes_url": "https://github.com/strong-network/strong-ide-new/commit/cb15890e0a29c3f09d89ed6500352c2194c8fd60",
+      "security_level": "none",
+      "tags": [
+        "latest"
+      ],
+      "minimum_sidecar_version": "1.0.0",
+      "sha256": "",
+      "published_at": "2026-04-07T13:06:50Z"
+    },
+    {
+      "name": "Strong IDE 1.112.0",
+      "image_url": "strongnetwork/vscode-init-container:v1.112.0",
+      "vscode_upstream_version": "1.112.0",
+      "release_notes_url": "https://github.com/strong-network/strong-ide-new/commit/cb15890e0a29c3f09d89ed6500352c2194c8fd60",
+      "security_level": "none",
+      "tags": [
+        "latest"
+      ],
+      "minimum_sidecar_version": "1.0.0",
+      "sha256": "",
+      "published_at": "2026-04-02T09:32:04Z"
+    }
+  ]
 }
